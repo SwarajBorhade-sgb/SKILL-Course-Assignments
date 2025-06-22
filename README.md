@@ -20,6 +20,6 @@ Assignments submitted as part of the SKILL Data & SQL course.
 ```sql
 -- Retrieve all employees’ first names and departments
 SELECT first_name, department FROM employees;
----
-#### 🔗 Connect
-Feel free to connect with me on [LinkedIn]
+
+## 🔗 Connect
+Feel free to connect with me on [LinkedIn][https://www.linkedin.com/in/swaraj-borhade-921a411a4/]
