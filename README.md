@@ -23,5 +23,9 @@ Let’s connect on [LinkedIn]([https://www.linkedin.com/in/swaraj-borhade-921a41
 ### 🚀 Sample Query
 ```sql
 -- Retrieve all employees’ first names and departments
-SELECT first_name, department FROM employees;'''
+SELECT
+	FIRST_NAME,
+	DEPARTMENT
+FROM
+	EMPLOYEES;
 
