@@ -19,7 +19,8 @@ Assignments submitted as part of the SKILL Data & SQL course.
 ### 🚀 Sample Query
 ```sql
 -- Retrieve all employees’ first names and departments
-SELECT first_name, department FROM employees;
+SELECT first_name, department FROM employees;'''
 
-## 🔗 Connect
-Feel free to connect with me on [LinkedIn][https://www.linkedin.com/in/swaraj-borhade-921a411a4/]
+### 📌 Connect
+Let’s connect on [LinkedIn]([https://www.linkedin.com/in/swaraj-borhade-921a411a4/](https://www.linkedin.com/in/swaraj-borhade-921a411a4/))  
+📧 borhadeswaraj01@gmail.com
